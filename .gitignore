@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Obsidian 本地会话状态（per-user，不需要对读者公开）
+.obsidian/
