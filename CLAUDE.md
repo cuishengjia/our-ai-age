@@ -73,7 +73,8 @@ status: draft            # draft | reviewed | stable
 4. **创建 / 更新 wiki 条目**：可能涉及 10+ 页——核心条目新建或迭代；相关概念页追加证据、矛盾、交叉；综合页更新。
 5. **更新 `index.md`**：新条目入目录，已有条目更新一句话摘要。
 6. **追加 `log.md`**：`## [YYYY-MM-DD] ingest | <源标题>` + 1-3 句变更摘要。
-7. **commit** 一次 ingest = 一个 commit。
+7. **更新 `README.md` 导航**：若本次 ingest 新增了 wiki 页，在 README 的"最近的条目" / 导航区补上链接。**README 是仓库门面 + 导航页**（用户 2026-04-29 规定），伴随内容增长持续迭代——让读者从首页就能摸到新内容。
+8. **commit** 一次 ingest = 一个 commit。
 
 ### Query（查问）
 

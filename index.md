@@ -6,7 +6,7 @@
 
 ## 概念页 (concept)
 
-_（还没有条目）_
+- [OpenSpec](./wiki/openspec.md) — spec-driven AI coding 工作流；PM 视角的 4 步 playbook（propose → review → apply → archive），存量项目加 feature 的对齐利器
 
 ## 实体页 (entity)
 
